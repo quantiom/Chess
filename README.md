@@ -6,7 +6,7 @@ This can most likely be improved, but I did not put much time into it since it i
 ### Features
 
 -   Logic implemented for all pieces
--   Shows possible moves in the GUI _(filters based on check detection, so it only shows move which either get you out of check or don't put you in check)_
+-   Shows possible moves in the GUI _(filters based on check detection, so it only shows moves which either get you out of check or don't put you in check)_
 -   Checkmate detection
 -   Check detection
 -   And more...
